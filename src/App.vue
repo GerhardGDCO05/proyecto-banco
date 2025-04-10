@@ -557,8 +557,8 @@
 
   .derechos-reservados {
     text-align: center; /* Centra el texto */
-    font-size: 1.5vh; /* Ajusta el tamaño del texto */
-    margin-top: 1vh; /* Espacio superior */
+    font-size: 1.5vh; 
+    margin-top: 1vh; 
   }
 }
 
